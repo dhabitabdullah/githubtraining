@@ -1,1 +1,2 @@
-Testing for GitHub Training - phase 2
+Welcome to GitHub Training!
+
