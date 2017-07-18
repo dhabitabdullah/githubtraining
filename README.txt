@@ -1,1 +1,1 @@
-Testing for GitHub Training
+Welcome to GitHub Training!
